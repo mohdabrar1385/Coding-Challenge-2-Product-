@@ -8,11 +8,16 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/broadcastsender/MsgShareApp.broadcastsender.iml" filepath="$PROJECT_DIR$/.idea/modules/broadcastsender/MsgShareApp.broadcastsender.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/codingchallenge/MsgShareApp.codingchallenge.iml" filepath="$PROJECT_DIR$/.idea/modules/codingchallenge/MsgShareApp.codingchallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/codingchallenge1/MsgShareApp.codingchallenge1.iml" filepath="$PROJECT_DIR$/.idea/modules/codingchallenge1/MsgShareApp.codingchallenge1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/codingchallenge2/MsgShareApp.codingchallenge2.iml" filepath="$PROJECT_DIR$/.idea/modules/codingchallenge2/MsgShareApp.codingchallenge2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/codingchallenge2/MsgShareApp.codingchallenge2usingactivities.iml" filepath="$PROJECT_DIR$/.idea/modules/codingchallenge2/MsgShareApp.codingchallenge2usingactivities.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/coroutines/MsgShareApp.coroutines.iml" filepath="$PROJECT_DIR$/.idea/modules/coroutines/MsgShareApp.coroutines.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/mvvm-androidarchitecture/MsgShareApp.mvvm-androidarchitecture.iml" filepath="$PROJECT_DIR$/.idea/modules/mvvm-androidarchitecture/MsgShareApp.mvvm-androidarchitecture.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/mvvm-livedata/MsgShareApp.mvvm-livedata.iml" filepath="$PROJECT_DIR$/.idea/modules/mvvm-livedata/MsgShareApp.mvvm-livedata.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/navigationcomponent/MsgShareApp.navigationcomponent.iml" filepath="$PROJECT_DIR$/.idea/modules/navigationcomponent/MsgShareApp.navigationcomponent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/retrofit/MsgShareApp.retrofit.iml" filepath="$PROJECT_DIR$/.idea/modules/retrofit/MsgShareApp.retrofit.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/roomapp/MsgShareApp.roomapp.iml" filepath="$PROJECT_DIR$/.idea/modules/roomapp/MsgShareApp.roomapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/viewpagerwithnavigation/MsgShareApp.viewpagerwithnavigation.iml" filepath="$PROJECT_DIR$/.idea/modules/viewpagerwithnavigation/MsgShareApp.viewpagerwithnavigation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/viewpagerwithnavigationcomponent/MsgShareApp.viewpagerwithnavigationcomponent.iml" filepath="$PROJECT_DIR$/.idea/modules/viewpagerwithnavigationcomponent/MsgShareApp.viewpagerwithnavigationcomponent.iml" />
     </modules>
   </component>
 </project>

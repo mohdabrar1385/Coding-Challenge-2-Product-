@@ -15,11 +15,16 @@
             <option value="$PROJECT_DIR$/broadcastsender" />
             <option value="$PROJECT_DIR$/codingchallenge" />
             <option value="$PROJECT_DIR$/codingchallenge1" />
+            <option value="$PROJECT_DIR$/codingchallenge2" />
+            <option value="$PROJECT_DIR$/codingchallenge2usingactivities" />
             <option value="$PROJECT_DIR$/coroutines" />
             <option value="$PROJECT_DIR$/mvvm-androidarchitecture" />
             <option value="$PROJECT_DIR$/mvvm-livedata" />
             <option value="$PROJECT_DIR$/navigationcomponent" />
+            <option value="$PROJECT_DIR$/retrofit" />
             <option value="$PROJECT_DIR$/roomapp" />
+            <option value="$PROJECT_DIR$/viewpagerwithnavigation" />
+            <option value="$PROJECT_DIR$/viewpagerwithnavigationcomponent" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.smartherd.msgshareapp">
+
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <application
+
+        android:name=".intentservices.App"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher_shareapp"
+
+        android:label="MsgShareApp"
+        android:roundIcon="@mipmap/ic_launcher_shareapp_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MsgShareApp">
+        <activity
+            android:name=".activities.MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".activities.SecondActivity"/>
+        <activity android:name=".activities.HobbiesActivity"/>
+
+        <activity android:name=".jobscheduler.JobSchedulerActivity"/>
+        <service
+            android:name=".jobscheduler.ExampleJobService"
+            android:permission="android.permission.BIND_JOB_SERVICE" />
+
+        <activity android:name=".foregroundservice.ForegroundActivity"/>
+        <service android:name=".foregroundservice.ExampleService"/>
+        
+        <activity android:name=".intentservices.IntentServicesActivity"/>
+        <service android:name=".intentservices.ExampleIntentService"/>
+
+        <activity android:name=".jobintentservices.JobIntentServicesActivity"/>
+        <service android:name=".jobintentservices.ExampleJobIntentService"
+            android:permission="android.permission.BIND_JOB_SERVICE"/>
+
+    </application>
+
+</manifest>
