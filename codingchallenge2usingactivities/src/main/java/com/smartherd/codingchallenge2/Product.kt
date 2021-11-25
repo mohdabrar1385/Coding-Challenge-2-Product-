@@ -1,8 +1,5 @@
 package com.smartherd.codingchallenge2
 
-import android.os.Parcelable
-
-
 data class Product(
     val category: String,
     val description: String,

@@ -25,30 +25,29 @@
 17-->D:\Training\Android\TD1\broadcastsender\src\main\AndroidManifest.xml:9:9-54
 18        android:supportsRtl="true"
 18-->D:\Training\Android\TD1\broadcastsender\src\main\AndroidManifest.xml:10:9-35
-19        android:testOnly="true"
-20        android:theme="@style/Theme.MsgShareApp" >
-20-->D:\Training\Android\TD1\broadcastsender\src\main\AndroidManifest.xml:11:9-49
-21        <activity
-21-->D:\Training\Android\TD1\broadcastsender\src\main\AndroidManifest.xml:12:9-20:20
-22            android:name="com.smartherd.broadcastsender.MainActivity"
-22-->D:\Training\Android\TD1\broadcastsender\src\main\AndroidManifest.xml:13:13-41
-23            android:exported="true" >
-23-->D:\Training\Android\TD1\broadcastsender\src\main\AndroidManifest.xml:14:13-36
-24            <intent-filter>
-24-->D:\Training\Android\TD1\broadcastsender\src\main\AndroidManifest.xml:15:13-19:29
-25                <action android:name="android.intent.action.MAIN" />
-25-->D:\Training\Android\TD1\broadcastsender\src\main\AndroidManifest.xml:16:17-69
-25-->D:\Training\Android\TD1\broadcastsender\src\main\AndroidManifest.xml:16:25-66
-26
-27                <category android:name="android.intent.category.LAUNCHER" />
-27-->D:\Training\Android\TD1\broadcastsender\src\main\AndroidManifest.xml:18:17-77
-27-->D:\Training\Android\TD1\broadcastsender\src\main\AndroidManifest.xml:18:27-74
-28            </intent-filter>
-29        </activity>
-30
-31        <receiver android:name="com.smartherd.broadcastsender.SenderReceiver" />
-31-->D:\Training\Android\TD1\broadcastsender\src\main\AndroidManifest.xml:21:8-50
-31-->D:\Training\Android\TD1\broadcastsender\src\main\AndroidManifest.xml:21:18-48
-32    </application>
-33
-34</manifest>
+19        android:theme="@style/Theme.MsgShareApp" >
+19-->D:\Training\Android\TD1\broadcastsender\src\main\AndroidManifest.xml:11:9-49
+20        <activity
+20-->D:\Training\Android\TD1\broadcastsender\src\main\AndroidManifest.xml:12:9-20:20
+21            android:name="com.smartherd.broadcastsender.MainActivity"
+21-->D:\Training\Android\TD1\broadcastsender\src\main\AndroidManifest.xml:13:13-41
+22            android:exported="true" >
+22-->D:\Training\Android\TD1\broadcastsender\src\main\AndroidManifest.xml:14:13-36
+23            <intent-filter>
+23-->D:\Training\Android\TD1\broadcastsender\src\main\AndroidManifest.xml:15:13-19:29
+24                <action android:name="android.intent.action.MAIN" />
+24-->D:\Training\Android\TD1\broadcastsender\src\main\AndroidManifest.xml:16:17-69
+24-->D:\Training\Android\TD1\broadcastsender\src\main\AndroidManifest.xml:16:25-66
+25
+26                <category android:name="android.intent.category.LAUNCHER" />
+26-->D:\Training\Android\TD1\broadcastsender\src\main\AndroidManifest.xml:18:17-77
+26-->D:\Training\Android\TD1\broadcastsender\src\main\AndroidManifest.xml:18:27-74
+27            </intent-filter>
+28        </activity>
+29
+30        <receiver android:name="com.smartherd.broadcastsender.SenderReceiver" />
+30-->D:\Training\Android\TD1\broadcastsender\src\main\AndroidManifest.xml:21:8-50
+30-->D:\Training\Android\TD1\broadcastsender\src\main\AndroidManifest.xml:21:18-48
+31    </application>
+32
+33</manifest>

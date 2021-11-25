@@ -49,6 +49,6 @@ class MainActivity : AppCompatActivity() {
     private fun setupRecyclerView() = binding.rvProducts.apply {
         productAdapter = ProductAdapter()
         adapter = productAdapter
-        layoutManager = LinearLayoutManager(this@MainActivity)
+        layoutManager = LinearLayoutManager(context)
     }
 }

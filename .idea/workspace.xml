@@ -16,25 +16,68 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0db327f0-792c-4fe1-a941-c16f71064f4d" name="Default Changelist" comment="Room App">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="0db327f0-792c-4fe1-a941-c16f71064f4d" name="Default Changelist" comment="Android Apps from Dell Laptop">
+      <change afterPath="$PROJECT_DIR$/codingchallenge2/src/main/java/com/smartherd/codingchallenge2/CartAdapter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codingchallenge2/src/main/java/com/smartherd/codingchallenge2/CartFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codingchallenge2/src/main/java/com/smartherd/codingchallenge2/Product.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codingchallenge2/src/main/java/com/smartherd/codingchallenge2/Product1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codingchallenge2/src/main/java/com/smartherd/codingchallenge2/ProductAdapter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codingchallenge2/src/main/java/com/smartherd/codingchallenge2/ProductApi.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codingchallenge2/src/main/java/com/smartherd/codingchallenge2/ProductDao.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codingchallenge2/src/main/java/com/smartherd/codingchallenge2/ProductDatabase.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codingchallenge2/src/main/java/com/smartherd/codingchallenge2/ProductDetailsFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codingchallenge2/src/main/java/com/smartherd/codingchallenge2/ProductFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codingchallenge2/src/main/java/com/smartherd/codingchallenge2/ProductRepository.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codingchallenge2/src/main/java/com/smartherd/codingchallenge2/ProductViewModel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codingchallenge2/src/main/java/com/smartherd/codingchallenge2/ProductViewModelFactory.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codingchallenge2/src/main/java/com/smartherd/codingchallenge2/Rating.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codingchallenge2/src/main/java/com/smartherd/codingchallenge2/RetrofitInstance.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codingchallenge2/src/main/res/drawable/ic_cart.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codingchallenge2/src/main/res/drawable/ic_delete.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codingchallenge2/src/main/res/drawable/ic_home.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codingchallenge2/src/main/res/drawable/ic_price.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codingchallenge2/src/main/res/layout/cart.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codingchallenge2/src/main/res/layout/fragment_product.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codingchallenge2/src/main/res/layout/fragment_product_details.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codingchallenge2/src/main/res/layout/product.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codingchallenge2/src/main/res/menu/ic_bottom_menu.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/assetWizardSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/assetWizardSettings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/deploymentTargetDropDown.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deploymentTargetDropDown.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/navEditor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/navEditor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codingchallenge/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/codingchallenge/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/codingchallenge/src/main/res/layout/rowlayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/codingchallenge/src/main/res/layout/rowlayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/broadcastsender/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/broadcastsender/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/broadcastsender/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/broadcastsender/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/broadcastsender/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" beforeDir="false" afterPath="$PROJECT_DIR$/broadcastsender/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/broadcastsender/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/broadcastsender/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/broadcastsender/build/intermediates/merged_manifest/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/broadcastsender/build/intermediates/merged_manifest/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/broadcastsender/build/intermediates/merged_manifests/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/broadcastsender/build/intermediates/merged_manifests/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/broadcastsender/build/intermediates/packaged_manifests/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/broadcastsender/build/intermediates/packaged_manifests/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/broadcastsender/build/intermediates/processed_res/debug/out/resources-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/broadcastsender/build/intermediates/processed_res/debug/out/resources-debug.ap_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/broadcastsender/build/intermediates/signing_config_versions/debug/signing-config-versions.json" beforeDir="false" afterPath="$PROJECT_DIR$/broadcastsender/build/intermediates/signing_config_versions/debug/signing-config-versions.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/broadcastsender/build/intermediates/stable_resource_ids_file/debug/stableIds.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/broadcastsender/build/outputs/apk/debug/broadcastsender-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/broadcastsender/build/outputs/apk/debug/broadcastsender-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codingchallenge2/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/codingchallenge2/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codingchallenge2/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/codingchallenge2/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codingchallenge2/src/main/java/com/smartherd/codingchallenge2/HomeFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codingchallenge2/src/main/java/com/smartherd/codingchallenge2/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/codingchallenge2/src/main/java/com/smartherd/codingchallenge2/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codingchallenge2/src/main/java/com/smartherd/codingchallenge2/SplashFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/codingchallenge2/src/main/java/com/smartherd/codingchallenge2/SplashFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codingchallenge2/src/main/java/com/smartherd/codingchallenge2/onboarding/ViewPagerFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/codingchallenge2/src/main/java/com/smartherd/codingchallenge2/onboarding/ViewPagerFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codingchallenge2/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/codingchallenge2/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codingchallenge2/src/main/res/layout/fragment_home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/codingchallenge2/src/main/res/layout/fragment_cart.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codingchallenge2/src/main/res/layout/fragment_splash.xml" beforeDir="false" afterPath="$PROJECT_DIR$/codingchallenge2/src/main/res/layout/fragment_splash.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codingchallenge2/src/main/res/navigation/my_nav.xml" beforeDir="false" afterPath="$PROJECT_DIR$/codingchallenge2/src/main/res/navigation/my_nav.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codingchallenge2usingactivities/src/main/java/com/smartherd/codingchallenge2/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/codingchallenge2usingactivities/src/main/java/com/smartherd/codingchallenge2/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codingchallenge2usingactivities/src/main/java/com/smartherd/codingchallenge2/Product.kt" beforeDir="false" afterPath="$PROJECT_DIR$/codingchallenge2usingactivities/src/main/java/com/smartherd/codingchallenge2/Product.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codingchallenge2usingactivities/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/codingchallenge2usingactivities/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codingchallenge2usingactivities/src/main/res/layout/cart.xml" beforeDir="false" afterPath="$PROJECT_DIR$/codingchallenge2usingactivities/src/main/res/layout/cart.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\Mohammed Abrar Ahmed\.android\avd\New_Pixel.avd]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\Mohammed Abrar Ahmed\.android\avd\My_Pixel.avd]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -44,13 +87,14 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
+        <option value="navigationResourceFile" />
+        <option value="Class" />
+        <option value="Kotlin Object" />
+        <option value="layoutResourceFile" />
+        <option value="Kotlin Interface" />
+        <option value="Kotlin Class" />
         <option value="valueResourceFile" />
         <option value="resourceFile" />
-        <option value="Kotlin Interface" />
-        <option value="layoutResourceFile" />
-        <option value="navigationResourceFile" />
-        <option value="Kotlin Class" />
-        <option value="Class" />
       </list>
     </option>
   </component>
@@ -72,6 +116,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/broadcastreceivers/src/main/AndroidManifest.xml" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/codingchallenge2/src/main/res/layout/fragment_product.xml" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/navigationcomponent/src/main/res/menu/drawer_menu.xml" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/codingchallenge1/src/main/java/com/smartherd/codingchallenge1/ProductsAdapter.kt" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/app/src/main/java/com/smartherd/msgshareapp/activities/SecondActivity.kt" root0="SKIP_INSPECTION" />
@@ -79,6 +124,7 @@
     <setting file="file://$PROJECT_DIR$/navigationcomponent/src/main/res/layout/activity_main.xml" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/app/src/main/java/com/smartherd/msgshareapp/activities/HobbiesActivity.kt" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/codingchallenge2/src/main/java/com/smartherd/codingchallenge2/ProductAdapter.kt" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/app/src/main/java/com/smartherd/msgshareapp/activities/MainActivity.kt" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/viewpagerwithnavigation/src/main/res/layout/fragment_first_screen.xml" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/app/src/main/java/com/smartherd/msgshareapp/adapters/HobbiesAdapter.kt" root0="SKIP_INSPECTION" />
@@ -97,12 +143,13 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ResourceManagerPrefKey.ResourceType" value="NAVIGATION" />
+    <property name="ResourceManagerPrefKey.ResourceType" value="MENU" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android-custom-viewC:/Users/Mohammed Abrar Ahmed/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0/f2bdf79e1977939817f54a9d3e2f6bc52b63bdd0/recyclerview-1.1.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java_RecyclerView_DIMENSIONS" value="1080&#10;1920" />
     <property name="android-custom-viewC:/Users/Mohammed Abrar Ahmed/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0/f2bdf79e1977939817f54a9d3e2f6bc52b63bdd0/recyclerview-1.1.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java_SELECTED" value="RecyclerView" />
     <property name="android-custom-viewE:/Android/sources/android-31/android/widget/EditText.java_SELECTED" value="EditText" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/codingchallenge2/src/main/java/com/smartherd/codingchallenge2/ui/products" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -119,15 +166,20 @@
     <key name="android.template.704919230">
       <recent name="com.smartherd.viewpagerwithnavigation" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Training\Android\TD1\codingchallenge2\src\main\java\com\smartherd\codingchallenge2\ui\products" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Training\Android\TD1\codingchallenge2\src\main\java\com\smartherd\codingchallenge2" />
+      <recent name="D:\Training\Android\TD1\codingchallenge2\src\main\java\com\smartherd\codingchallenge2\fragments" />
       <recent name="D:\Training\Android\TD1\codingchallenge1\src\main\assets" />
     </key>
     <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.smartherd.codingchallenge2" />
+      <recent name="com.smartherd.codingchallenge2.data" />
+      <recent name="com.smartherd.codingchallenge2.adapters" />
       <recent name="com.smartherd.viewpagerwithnavigation.onboarding.screen.screens" />
       <recent name="com.smartherd.viewpagerwithnavigation.onboarding.screens" />
-      <recent name="com.smartherd.roomapp.model" />
-      <recent name="com.smartherd.roomapp.repository" />
-      <recent name="com.smartherd.roomapp.viewmodel" />
     </key>
   </component>
   <component name="RunManager" selected="Android App.codingchallenge2">
@@ -1039,7 +1091,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637419427018</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Android Apps from Dell Laptop">
+      <created>1637426090956</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1637426090957</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -1060,6 +1119,7 @@
     <MESSAGE value="BroadCast Receivers" />
     <MESSAGE value="BroadCast Sender" />
     <MESSAGE value="Room App" />
-    <option name="LAST_COMMIT_MESSAGE" value="Room App" />
+    <MESSAGE value="Android Apps from Dell Laptop" />
+    <option name="LAST_COMMIT_MESSAGE" value="Android Apps from Dell Laptop" />
   </component>
 </project>
